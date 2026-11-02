@@ -1,0 +1,9 @@
+{
+  "name": "DUSK Space",
+  "short_name": "DUSK",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F3EDE2",
+  "theme_color": "#F3EDE2"
+}
